@@ -7,6 +7,12 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+## Shell
+
+```
+
+```
+
 ## Editor
 ```
 brew install --cask visual-studio-code
@@ -24,7 +30,7 @@ brew install clipy
 ```
 git --versions
 brew install tig
-brew install 
+brew install ghq
 ```
 
 ## Useful CLI Tools
@@ -33,5 +39,15 @@ brew install
 brew install tree
 brew install fzf
 ```
+
+## Python
+```
+
+
+```
+
+
+## Rust
+
 
 
