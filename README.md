@@ -3,8 +3,12 @@
 
 ## Homebrew
 
+
+### Only M1 chip
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/padawan_e15/.zprofile
+eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 ## Shell
