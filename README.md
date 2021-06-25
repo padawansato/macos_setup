@@ -4,6 +4,8 @@
 ## Homebrew
 
 
+
+
 ### Only M1 chip
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -25,9 +27,9 @@ brew install --cask visual-studio-code
 ## Useful Apps
 
 ```
-brew install deepl
-brew install shiftit
-brew install clipy
+brew install --cask deepl
+brew install --cask shiftit
+brew install --cask clipy
 ```
 
 ## Git
@@ -54,4 +56,17 @@ brew install fzf
 ## Rust
 
 
+## Finder settings
+
+```
+defaults write com.apple.finder _FXShowPosixPathInTitle -boolean true
+defaults write com.apple.finder AppleShowAllFiles -bool true
+killall Finder
+```
+
+## Boot sounds
+
+```
+sudo nvram SystemAudioVolume=%00
+```
 
