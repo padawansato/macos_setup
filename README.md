@@ -65,7 +65,6 @@ brew install ghq
 brew install z
 brew install tree
 brew install fzf
-brew install jq
 brew install tmux
 ```
 
