@@ -13,20 +13,30 @@ echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/padawan_e15/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
+
 ## Shell (Fish shell)
 
 ```
 brew install fish
 ```
 
+## Terminal
+
+```
+brew install --cask iterm2
+```
+
+
 ## Editor
 ```
 brew install --cask visual-studio-code
 ```
 
+
 ## Useful Apps
 
 ```
+brew install --cask alfred
 brew install --cask deepl
 brew install --cask shiftit
 brew install --cask clipy
@@ -42,6 +52,7 @@ brew install ghq
 ## Useful CLI Tools
 
 ```
+brew install z
 brew install tree
 brew install fzf
 brew install jq
