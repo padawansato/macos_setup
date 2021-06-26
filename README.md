@@ -67,17 +67,7 @@ brew install jq
 brew install tmux
 ```
 
-## Python
-```
 
-
-```
-
-## 
-
-
-
-## Rust
 
 
 ## Finder settings
@@ -93,4 +83,12 @@ killall Finder
 ```
 sudo nvram SystemAudioVolume=%00
 ```
+
+## Python
+
+```
+pip3 install pyenv
+```
+
+## Rust
 
