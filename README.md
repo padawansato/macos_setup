@@ -2,11 +2,7 @@
 
 
 ## Homebrew
-
-
-
-
-### Only M1 chip
+Only M1 chip
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -31,19 +27,30 @@ brew install --cask iterm2
 ## Editor
 ```
 brew install --cask visual-studio-code
+brew install --cask google-japanese-ime
 ```
+
 
 
 ## Useful Apps
 
 ```
+
 brew install --cask alfred
 brew install --cask deepl
 brew install --cask shiftit
 brew install --cask clipy
 ```
 
+## Cloud Storage
+
+```
+brew install --cask dropbox
+```
+
+
 ## Git
+
 ```
 git --versions
 brew install tig
@@ -65,6 +72,9 @@ brew install tmux
 
 
 ```
+
+## 
+
 
 
 ## Rust
