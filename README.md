@@ -1,14 +1,27 @@
 # macos_setup
 
 
-## Homebrew
-Only M1 chip
+## Check arm64(m1) or x86_64(intel)
 
 ```
+uname -m
+```
+
+## Homebrew
+
+### Homebrew (arm)
+turn off rosetta2 chechbox on finder.app
+
+```iterm
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/padawan_e15/.zprofile
 eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
+
+### Homebrew (Intel)
+turn on rosetta2 chechbox on finder.app
+
+
 
 
 ## Shell (Fish shell)
