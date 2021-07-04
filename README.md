@@ -10,7 +10,7 @@ uname -m
 ## Homebrew
 
 ### Homebrew (arm)
-turn off rosetta2 chechbox on finder.app
+"iTerm2.app" , turn off rosetta2 chechbox on finder.app
 
 ```iterm
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -19,7 +19,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 ```
 
 ### Homebrew (Intel)
-turn on rosetta2 chechbox on finder.app
+"Terminal.app" , turn on rosetta2 chechbox on finder.app
 
 
 
