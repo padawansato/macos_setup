@@ -53,10 +53,8 @@ brew install --cask google-japanese-ime
 
 ## Docker
 
-Docker Desktop for Apple silicon
-```
-brew install docker
-```
+[Docker Desktop for Apple silicon](https://matsuand.github.io/docs.docker.jp.onthefly/docker-for-mac/apple-silicon/)
+
 
 ## Useful Apps
 
