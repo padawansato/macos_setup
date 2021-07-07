@@ -51,7 +51,7 @@ brew install --cask visual-studio-code
 brew install --cask google-japanese-ime
 ```
 
-## docker
+## Docker
 
 Docker Desktop for Apple silicon
 ```
