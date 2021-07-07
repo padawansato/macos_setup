@@ -50,7 +50,7 @@ brew install --cask google-japanese-ime
 ## Useful Apps
 
 ```
-
+brew install --cask karabiner-elements
 brew install --cask alfred
 brew install --cask deepl
 brew install --cask shiftit
