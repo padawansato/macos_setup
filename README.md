@@ -1,10 +1,16 @@
 # macos_setup
 
+## Rosetta2
+
+```
+softwareupdate --install-rosetta
+```
 
 ## Check arm64(m1) or x86_64(intel)
 
 ```
 uname -m
+
 ```
 
 ## Homebrew
@@ -45,7 +51,12 @@ brew install --cask visual-studio-code
 brew install --cask google-japanese-ime
 ```
 
+## docker
 
+Docker Desktop for Apple silicon
+```
+brew install docker
+```
 
 ## Useful Apps
 
