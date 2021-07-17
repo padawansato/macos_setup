@@ -66,6 +66,7 @@ brew install --cask deepl
 brew install --cask shiftit
 brew install --cask clipy
 brew install --cask appcleaner
+brew install --cask cheatsheet
 ```
 
 ## Cloud Storage
