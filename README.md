@@ -31,6 +31,7 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 
 
 ## Shell (Fish shell)
+https://github.com/jorgebucaran/awsm.fish
 
 ```
 brew install fish
