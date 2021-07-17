@@ -63,6 +63,7 @@ brew install --cask google-japanese-ime
 brew install --cask karabiner-elements
 brew install --cask alfred
 brew install --cask deepl
+brew install --cask grammarly
 brew install --cask shiftit
 brew install --cask clipy
 brew install --cask appcleaner
