@@ -40,6 +40,20 @@ echo "/usr/local/bin/fish" >> /etc/shells
 chsh -s /usr/local/bin/fish 
 ```
 
+
+### Fishshel plugin manager(fisher)
+```
+curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+```
+
+### fish shell plugin
+```
+fisher install jethrokuan/z
+fisher install PatrickF1/fzf.fish
+
+```
+
+
 ### Show which one uesed in prompot 
 
 `~/.config/fish/functions/fish_prompt.fish`
@@ -104,7 +118,7 @@ brew install ghq
 ```
 brew install z
 brew install tree
-brew install fzf
+brew install fzf fd bat
 brew install tmux
 ```
 
