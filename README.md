@@ -76,6 +76,11 @@ brew install --cask cheatsheet
 brew install --cask dropbox
 ```
 
+## Web Browser
+
+```
+brew install --cask vivaldi
+```
 
 ## Git
 
