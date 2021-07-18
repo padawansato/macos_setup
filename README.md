@@ -99,7 +99,11 @@ brew install fzf
 brew install tmux
 ```
 
+## Useful apps for Productivity
 
+```
+https://todoist.com/ja/downloads/mac
+```
 
 
 ## Finder settings
