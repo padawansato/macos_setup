@@ -16,7 +16,8 @@ uname -m
 ## Homebrew
 
 ### Homebrew (arm)
-"iTerm2.app" , turn off rosetta2 chechbox on finder.app
+Do not check the "Turn on rosetta2" checkbox of "iTerm2" in Finder application.
+
 
 ```iterm
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
