@@ -40,6 +40,14 @@ echo "/usr/local/bin/fish" >> /etc/shells
 chsh -s /usr/local/bin/fish 
 ```
 
+### Show which one uesed in prompot 
+
+`~/.config/fish/functions/fish_prompt.fish`
+```
+echo -n "("(uname -m|sed "s/\r//")")"
+```
+
+
 ## Terminal
 
 ```
