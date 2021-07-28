@@ -150,5 +150,15 @@ brew update
 brew install pyenv
 ```
 
+> For Fish shell:
+> Execute this interactively:
+> set -Ux PYENV_ROOT $HOME/.pyenv
+> set -U fish_user_paths $PYENV_ROOT/bin $fish_user_paths
+> And add this to ~/.config/fish/config.fish:
+> status is-interactive; and pyenv init --path | source
+
+```
+
+
 ## Rust
 
