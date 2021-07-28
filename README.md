@@ -146,7 +146,8 @@ sudo nvram SystemAudioVolume=%00
 ## Python
 
 ```
-pip3 install pyenv
+brew update
+brew install pyenv
 ```
 
 ## Rust
