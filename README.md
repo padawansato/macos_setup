@@ -113,6 +113,15 @@ brew install tig
 brew install ghq
 ```
 
+### gitignore
+global
+```
+touch ~/.config/git/ignore
+```
+
+
+
+
 ## Useful CLI Tools
 
 ```
