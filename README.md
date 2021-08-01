@@ -108,6 +108,11 @@ brew install --cask vivaldi
 ## Git
 
 ```
+git config --global user.name "First-name Family-name"
+git config --global user.email "username@example.com"
+```
+
+```
 git --versions
 brew install tig
 brew install ghq
