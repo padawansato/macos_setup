@@ -145,9 +145,10 @@ sudo nvram SystemAudioVolume=%00
 
 ## Python
 
+brew install is not working.
+
 ```
-brew update
-brew install pyenv
+git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 ```
 
 > For Fish shell:
