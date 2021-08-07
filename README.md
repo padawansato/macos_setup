@@ -124,6 +124,7 @@ global
 touch ~/.config/git/ignore
 ```
 
+[official gitignore samples](https://github.com/github/gitignore/tree/master/Global)
 
 
 
@@ -135,6 +136,7 @@ brew install tree
 brew install fzf fd bat
 brew install tmux
 ```
+
 
 ## Useful apps for Productivity
 
