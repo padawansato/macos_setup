@@ -122,6 +122,7 @@ brew install ghq
 global
 ```
 touch ~/.config/git/ignore
+touch ~/.config/git/[some].gitignore
 ```
 
 [official gitignore samples](https://github.com/github/gitignore/tree/master/Global)
