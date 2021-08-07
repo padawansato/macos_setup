@@ -196,6 +196,7 @@ status is-interactive; and pyenv init --path | source
 https://blog.rust-lang.org/2020/11/27/Rustup-1.23.0.html
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+set -U fish_user_paths $fish_user_paths $HOME/.cargo/bin
 ```
 
 
