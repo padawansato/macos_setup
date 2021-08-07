@@ -133,7 +133,7 @@ touch ~/.config/git/ignore
 ```
 brew install z
 brew install tree
-brew install fzf fd bat
+brew install fzf fd bat ripgrep
 brew install tmux
 ```
 
