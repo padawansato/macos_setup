@@ -131,6 +131,7 @@ global
 ```
 touch ~/.config/git/ignore
 touch ~/.config/git/[some].gitignore
+git config --global --add core.excludesfile ~/.config/git/[some].gitignore
 ```
 
 [official gitignore samples](https://github.com/github/gitignore/tree/master/Global)
