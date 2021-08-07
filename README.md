@@ -80,6 +80,14 @@ brew install --cask google-japanese-ime
 [Docker Desktop for Apple silicon](https://matsuand.github.io/docs.docker.jp.onthefly/docker-for-mac/apple-silicon/)
 
 
+### window manager
+to use desktop app in docker container
+
+```
+brew install --cask xquartz
+```
+
+
 ## Useful Apps
 
 ```
@@ -144,6 +152,7 @@ brew install tmux
 ```
 https://todoist.com/ja/downloads/mac
 ```
+
 
 
 ## Finder settings
