@@ -192,6 +192,14 @@ set -U fish_user_paths $PYENV_ROOT/bin $fish_user_paths
 status is-interactive; and pyenv init --path | source
 ```
 
+### venv
+```
+pyenv install [version]
+pyenv global [version]
+python -m venv "venv_py[version]"
+alias venv-up "fish -C 'source venv_py*/bin/activate.fish'"
+```
+
 
 ## Rust
 https://blog.rust-lang.org/2020/11/27/Rustup-1.23.0.html
