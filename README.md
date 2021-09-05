@@ -126,6 +126,22 @@ git --versions
 brew install tig
 brew install ghq
 ```
+### Git CLI
+
+```
+brew install gh
+gh auth login
+gh config set editor vim
+```
+create remote repository with local CLI
+
+```
+git init 
+gh repo create --private[or --public]
+```
+
+
+
 
 ### gitignore
 global
