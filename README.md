@@ -51,6 +51,10 @@ curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
 fisher install jethrokuan/z
 fisher install PatrickF1/fzf.fish
 fisher install decors/fish-ghq
+fisher install jorgebucaran/replay.fish
+fisher install IlanCosman/tide@v5
+fisher install franciscolourenco/done
+
 ```
 
 
