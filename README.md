@@ -230,3 +230,14 @@ set -U fish_user_paths $fish_user_paths $HOME/.cargo/bin
 ```
 
 
+## iTerm2
+
+Option + backspace -> delete word
+
+1. Open iTem2 Preferences.
+2. Open Keys tab and click "+" button.  
+3. Click "Click to Set" and write "option + delete".
+4. Select action "Send Hex Code" and send "0x1b 0x08".
+
+
+
