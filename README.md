@@ -44,6 +44,11 @@ chsh -s /usr/local/bin/fish
 brew install --cask iterm2
 ```
 
+### Use ⌥ + ⌫ and ⌘ + ⌫ to delete a word and delete a line respectively
+
+[Delete a word and a line in iTerm2](http://www.icheft.tech/2020/08/12/Delete-a-word-and-a-line-in-iTerm2/)
+
+
 
 ## Editor
 ```
