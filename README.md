@@ -50,12 +50,14 @@ curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
 ```
 fisher install jethrokuan/z
 fisher install PatrickF1/fzf.fish
+export FZF_DEFAULT_OPTS='--height 80% --border'
 fisher install decors/fish-ghq
 fisher install jorgebucaran/replay.fish
 fisher install IlanCosman/tide@v5
 fisher install franciscolourenco/done
 
 ```
+
 
 
 ### Show which one uesed in prompot 
