@@ -67,6 +67,13 @@ fisher install franciscolourenco/done
 echo -n "("(uname -m|sed "s/\r//")")"
 ```
 
+### fish error
+`"in function 'fish_prompt' in command substitution disown: THERE ARE NO SUITABLE JOBS"`
+
+
+```
+fish_add_path /opt/homebrew/bin/
+```
 
 ## Terminal
 
